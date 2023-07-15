@@ -1,0 +1,15 @@
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\Rotating3dCubeAs2dSymbols.csproj.AssemblyReference.cache
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\Rotating3dCubeAs2dSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\Rotating3dCubeAs2dSymbols.AssemblyInfoInputs.cache
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\Rotating3dCubeAs2dSymbols.AssemblyInfo.cs
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\Rotating3dCubeAs2dSymbols.csproj.CoreCompileInputs.cache
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\bin\Debug\net7.0\Rotating3dCubeAs2dSymbols.exe
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\bin\Debug\net7.0\Rotating3dCubeAs2dSymbols.deps.json
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\bin\Debug\net7.0\Rotating3dCubeAs2dSymbols.runtimeconfig.json
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\bin\Debug\net7.0\Rotating3dCubeAs2dSymbols.dll
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\bin\Debug\net7.0\Rotating3dCubeAs2dSymbols.pdb
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\Rotating3dCubeAs2dSymbols.dll
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\refint\Rotating3dCubeAs2dSymbols.dll
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\Rotating3dCubeAs2dSymbols.pdb
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\Rotating3dCubeAs2dSymbols.genruntimeconfig.cache
+C:\Users\A_D_A_\source\repos\Rotating3dCubeAs2dSymbols\Rotating3dCubeAs2dSymbols\obj\Debug\net7.0\ref\Rotating3dCubeAs2dSymbols.dll

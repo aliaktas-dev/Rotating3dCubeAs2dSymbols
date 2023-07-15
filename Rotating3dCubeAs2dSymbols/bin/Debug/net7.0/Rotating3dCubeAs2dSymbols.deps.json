@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Rotating3dCubeAs2dSymbols/1.0.0": {
+        "runtime": {
+          "Rotating3dCubeAs2dSymbols.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rotating3dCubeAs2dSymbols/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

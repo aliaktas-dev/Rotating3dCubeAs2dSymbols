@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A_D_A_\\source\\repos\\Rotating3dCubeAs2dSymbols\\Rotating3dCubeAs2dSymbols\\Rotating3dCubeAs2dSymbols.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A_D_A_\\source\\repos\\Rotating3dCubeAs2dSymbols\\Rotating3dCubeAs2dSymbols\\Rotating3dCubeAs2dSymbols.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A_D_A_\\source\\repos\\Rotating3dCubeAs2dSymbols\\Rotating3dCubeAs2dSymbols\\Rotating3dCubeAs2dSymbols.csproj",
+        "projectName": "Rotating3dCubeAs2dSymbols",
+        "projectPath": "C:\\Users\\A_D_A_\\source\\repos\\Rotating3dCubeAs2dSymbols\\Rotating3dCubeAs2dSymbols\\Rotating3dCubeAs2dSymbols.csproj",
+        "packagesPath": "C:\\Users\\A_D_A_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A_D_A_\\source\\repos\\Rotating3dCubeAs2dSymbols\\Rotating3dCubeAs2dSymbols\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A_D_A_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\A_D_A_\\source\\repos\\AutomationHub\\src\\AutomationHub\\Getinge\\Getinge.WebApiHelper.Analyzer\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.300-preview.23122.5\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
